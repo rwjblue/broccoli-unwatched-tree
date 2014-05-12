@@ -1,6 +1,6 @@
 {
   "name": "broccoli-unwatched-tree",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Broccoli utlility for creating Trees that are not watched by the standard Broccoli::Watcher, but behave like standard trees.",
   "main": "index.js",
   "keywords": [
