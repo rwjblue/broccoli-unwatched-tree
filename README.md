@@ -1,5 +1,8 @@
 ## Broccoli Unwatched Tree
 
+**Deprecated in favor of
+[broccoli-source](https://github.com/broccolijs/broccoli-source).**
+
 This is useful if you would like to use a given directory, but not have it polled/watched when running
 `broccoli serve` (or `ember server` if using Ember CLI).
 
