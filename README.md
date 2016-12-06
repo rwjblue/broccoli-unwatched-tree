@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Please use [broccoli-source](https://github.com/broccolijs/broccoli-source)'s `UnwatchedDir` instead.
+
 ## Broccoli Unwatched Tree
 
 This is useful if you would like to use a given directory, but not have it polled/watched when running
