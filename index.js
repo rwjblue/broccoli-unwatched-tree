@@ -1,2 +1,6 @@
 // please use broccoli-source instead
-module.exports = require('broccoli-source').UnwatchedDir;
+var broccoliSource = require('broccoli-source');
+var UnwatchedDir = broccoliSource.UnwatchedDir;
+module.exports = function(path, options){
+	return new UnwatchedDir(path, options);
+};
