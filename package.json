@@ -14,5 +14,10 @@
   },
   "dependencies": {
     "broccoli-source": "^1.1.0"
+  },
+  "devDependencies": {
+    "broccoli-test-helper": "^1.1.0",
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
   }
 }
